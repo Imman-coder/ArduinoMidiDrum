@@ -2,9 +2,9 @@
  * Copyright (c) 2022 Immanuel Mundary
  * Email: ImmanuelMundary09@gmail.com
  *
- * This file is part of ArduinoMidiDrum.
+ * This file is part of ArduinoMidiPad.
  *
- * ArduinoMidiDrum is free software: you can redistribute it and/or modify
+ * ArduinoMidiPad is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
  * the Free Software Foundation, either version 3 of the License, or
  * (at your option) any later version.
